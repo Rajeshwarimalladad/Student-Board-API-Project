@@ -11,3 +11,12 @@ public class SchoolBoardApiProjectApplication
 		SpringApplication.run(SchoolBoardApiProjectApplication.class, args);
 	}	
 }
+
+
+
+
+
+
+
+
+
